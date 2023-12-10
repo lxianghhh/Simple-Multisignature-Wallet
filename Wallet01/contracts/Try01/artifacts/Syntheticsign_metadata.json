@@ -1,0 +1,65 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "bytes",
+						"name": "signatures",
+						"type": "bytes"
+					}
+				],
+				"name": "merge",
+				"outputs": [
+					{
+						"internalType": "bytes",
+						"name": "",
+						"type": "bytes"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Try01/Synthetic.sol": "Syntheticsign"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Try01/Synthetic.sol": {
+			"keccak256": "0x2c453efe2c850aea49d269e364824d452a7533875b5da09fa496e4644a1856f5",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://6acd508287da72845eef0848eb0cf5e75e6aa7befce0b7f1179496fd11ef1c2f",
+				"dweb:/ipfs/QmXw4rRzC6huRHoV8tMHq4Pwt5YK4EC7YBSAr2rZhtwMEB"
+			]
+		}
+	},
+	"version": 1
+}

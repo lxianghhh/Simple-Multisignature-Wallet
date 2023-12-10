@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "addr1",
+						"type": "address"
+					},
+					{
+						"internalType": "bytes",
+						"name": "data",
+						"type": "bytes"
+					}
+				],
+				"name": "add2",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Try01/t03.sol": "t003"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Try01/Manage.sol": {
+			"keccak256": "0xf67a8a8978a77c0a7b5495965a934c1bb878a1aadfeeac290e009a778f5d01a5",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://d71323cbb5655232b3ca09e833e6630caf559038f98e7373774e4a9d72848817",
+				"dweb:/ipfs/Qmb2Ymkt3UBp91T6mb4TF7U2RRJL4XWinzoxyAfwPrwDRh"
+			]
+		},
+		"contracts/Try01/t03.sol": {
+			"keccak256": "0xc681621a555ed57d3ffbf75cacbcf19ac24d611526a396f42d1c3bd5d3617734",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://42c3d79176eb9de1736f8482edb6b493c47bfcc7547532a3c2310df1b9e26bc0",
+				"dweb:/ipfs/QmSZUmLbCFkE7bERCM6WB83vS9XrQZpyBvFdpvbyzEnixY"
+			]
+		}
+	},
+	"version": 1
+}

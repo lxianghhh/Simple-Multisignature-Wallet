@@ -1,0 +1,64 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "to",
+						"type": "address"
+					},
+					{
+						"internalType": "uint256",
+						"name": "value",
+						"type": "uint256"
+					}
+				],
+				"name": "sendeth",
+				"outputs": [],
+				"stateMutability": "payable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Try01/test.sol": "te"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Try01/test.sol": {
+			"keccak256": "0xedd5982d570ea98e58a299d88539dbd35089ff8a82944399f22ffdc3f700fce1",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://b98e11971869865b7a232f08bb2528615d30a86511a9d6fc39685be58cbba13a",
+				"dweb:/ipfs/QmeRpWQE88zzCa3etdSgGrxXTAuHRWn5vEFarghyUfEzpe"
+			]
+		}
+	},
+	"version": 1
+}

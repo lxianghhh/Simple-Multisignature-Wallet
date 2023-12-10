@@ -1,0 +1,48 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"author": "Vittorio Minacori (https://github.com/vittominacori)",
+			"details": "An utility library for working with sorted linked list data structures in your Solidity project.",
+			"kind": "dev",
+			"methods": {},
+			"title": "StructuredLinkedList",
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Try01/Linklist.sol": "StructuredLinkedList"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Try01/Linklist.sol": {
+			"keccak256": "0x36607ccfe0ebfabb063a9fe8a3e9942bd694455da287f45a0a5ddb0d44365c25",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://0cbde9c2c47d7f86f966564dd05640c47724bed2708f6ea8e619bb30ec061622",
+				"dweb:/ipfs/QmQsmK4y9cEvutfonZTxWc7k2YsFD7fpG4n1WVaXuXpTTS"
+			]
+		}
+	},
+	"version": 1
+}
